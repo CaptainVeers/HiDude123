@@ -1,4 +1,4 @@
-# Hello there, I'm ... 💻
+# Hello there, I'm George 💻
 
 - ☕ I’m currently working on [Equestria At War](https://github.com/EaW-Team/equestria_dev)
 - 🌍 Am also the Communty Manager of EAW [Equestria At War Website](https://equestriaatwar.com/)
