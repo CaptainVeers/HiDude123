@@ -9,4 +9,4 @@
 
 [![MY GitHub stats](https://github-readme-stats.vercel.app/api?username=HiDude123&show_icons=true&theme=nord&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hidude123" alt="hidude123" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hidude123&" alt="hidude123" /></p>
